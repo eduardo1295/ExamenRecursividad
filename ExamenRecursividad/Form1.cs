@@ -14,6 +14,7 @@ namespace ExamenRecursividad
 {
     public partial class Form1 : Form
     {
+        string cambio = "minimo";
         string bin = "";
         string oct = "";
         string hex = "";
